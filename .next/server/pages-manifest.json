@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/alterarsenha": "pages/alterarsenha.html",
+  "/cadastro": "pages/cadastro.html",
+  "/ideias": "pages/ideias.html",
+  "/": "pages/index.html",
+  "/login/[type]": "pages/login/[type].html",
+  "/publicar": "pages/publicar.html",
+  "/recuperar": "pages/recuperar.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
